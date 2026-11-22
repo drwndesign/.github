@@ -1,11 +1,19 @@
-![drwndesign](../assets/banner.png)
+ <p align="center">
+  <img src="../assets/banner.png" width="420" alt="drwndesign">
+</p>
 
-# drwndesign
+<h1 align="center">drwndesign</h1>
 
-**a home for my web projects.**
+<p align="center">
+  <strong>a home for my web projects.</strong>
+</p>
 
-designing, building, and experimenting with the web.
+<p align="center">
+  designing, building, and experimenting with the web.
+</p>
 
 ---
 
-<sub>personal workspace · © 2026 drwndesign</sub>
+<p align="center">
+  <sub>personal workspace · © 2026 drwndesign</sub>
+</p>
