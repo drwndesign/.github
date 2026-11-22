@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo.png" width="90" alt="drwndesign">
+  <img src="../assets/logo.png" width="150" alt="drwndesign">
 </p>
 
 <h1 align="center">drwndesign</h1>
