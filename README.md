@@ -1,4 +1,4 @@
-![drwndesign](./../assets/logo.png)
+![drwndesign](../assets/logo.png)
 
 # drwndesign
 
